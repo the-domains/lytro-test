@@ -1,0 +1,28 @@
+name: Lytro Test
+favicon: null
+layout_spectrum: 0.6701140562072396
+typography_spectrum: 0.031187675893306732
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.24628396425396204
+  lightness: 0.38028997788205743
+  saturation: 0.5078843201044947
+  rhythmicContrast: 0.06445560581050813
+purpose: []
